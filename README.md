@@ -2,7 +2,7 @@
 
 # Hello-react-front-end
 
-[Link to backend repo](https://github.com/BenjaminSemah/rails-react-backend)
+>[Link to backend repo](https://github.com/BenjaminSemah/rails-react-backend)
 
 ## Built With
 - Dependacies
